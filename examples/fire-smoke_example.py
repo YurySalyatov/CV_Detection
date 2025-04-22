@@ -9,7 +9,7 @@ if __name__ == "__main__":
         (50, 200, 50), (255, 50, 0)
     ]
     print(os.getcwd().replace('\\', '/'))
-    weights_path = os.getcwd().replace('\\', '/') + "/../model/best_model_params/fire_smoke_best.pt"
+    weights_path = os.getcwd().replace('\\', '/') + "/../model/best_model_params/fire-smoke_best.pt"
     print(weights_path)
     # Initialize detector with custom model
     detector = AnyDetector(

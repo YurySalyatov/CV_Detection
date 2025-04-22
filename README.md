@@ -26,6 +26,12 @@ from detectors.AnyDetector import AnyDetector
 ```
 
 3. **Sea example in examples**
-```
 
+3.1 **Download test video**
+```
+you should to download test_video dir from https://drive.google.com/drive/folders/1-dUerY7t05JpnePiT8vUHHyaY9mOI15o?usp=sharing
+```
+3.2 **Run file any file from examples/**
+```bash
+python examples/fire-smoke_example.py
 ```
