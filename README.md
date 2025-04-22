@@ -35,3 +35,5 @@ you should to download test_video dir from https://drive.google.com/drive/folder
 ```bash
 python examples/fire-smoke_example.py
 ```
+4. **Results on datasets are in directory model**
+5. **You can check how to work with datasets in directory notebooks**
