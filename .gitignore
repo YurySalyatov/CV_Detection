@@ -1,0 +1,15 @@
+*.mp4
+model/datasets/Atik Ayristirma.v9i.yolov12
+model/datasets/courier-dataset-yolo
+model/datasets/courier-dataset-yolo_mut
+model/datasets/intruder face covering.v4i.yolov11
+model/datasets/Knife-Detection.v4i.yolov11
+model/datasets/knife-face-stick
+model/datasets/phone detection.v1i.yolov11
+model/datasets/smokeandfire.v2i.yolov12
+model/datasets/smokeandfire.v2i.yolov12_mut
+model/datasets/Stick-rod Detection.v3i.yolov11
+model/datasets/trash-dataset
+frames/*
+*.onnx
+*.yaml
